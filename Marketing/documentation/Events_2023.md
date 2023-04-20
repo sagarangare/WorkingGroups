@@ -13,3 +13,4 @@
 | https://edgecomputing-expo.com/europe/ | 26.-27. September 2023 | Amsterdam | DT |
 | https://events.linuxfoundation.org/kubecon-cloudnativecon-north-america/  | 06.-09. November 2023 | Chicago ||
 | https://www.apidays.global/paris/ | 06.-08. December 2023 | Paris | DT |
+| https://events.linuxfoundation.org/one-summit-north-america/ | 15.-16. November 2023 | Seattle | WA |
